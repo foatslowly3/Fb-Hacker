@@ -17,8 +17,6 @@ $ python2 fb.py
 
 ## Other links
 
-## Youtube-http://gestyy.com/eee4Dc
-## Facebook-http://gestyy.com/eee4Wf
-## Blogger-http://gestyy.com/eee4IH
-## Instagram-https://www.instagram.com/hackerworld021/
+## Youtube-https://www.youtube.com/channel/UCU0MrmtfuxYeW1tDJVWZdxA
+## Facebook-https://www.facebook.com/hackerworld09
 
